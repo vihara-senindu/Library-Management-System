@@ -1,0 +1,19 @@
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.Login.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.Dashboard.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.AddBooks.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.AddStudents.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.IssueBook.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.IssueBookReport.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.ReturnBook.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.ReturnBookReport.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.ViewBooks.resources
+E:\Semester 2\Project\New folder\Library Management System\Library Management System\obj\Debug\Library_Management_System.ViewStudents.resources
